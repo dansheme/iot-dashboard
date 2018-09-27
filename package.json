@@ -38,6 +38,7 @@
     "monitoring"
   ],
   "dependencies": {
+    "axios": "^0.18.0",
     "connect": "^3.4.1",
     "serve-static": "^1.11.1"
   },
